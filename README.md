@@ -12,7 +12,7 @@
 
 ---
 
-### 🌟 About Me
+### 🌟 About Mee 
 
 - 🔭 I’m currently working on **AI & Data Science projects using TensorFlow, PyTorch, and NLP**  
 - 🌱 I’m currently learning **Advanced Python | Computer Vision | Flask**  

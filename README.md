@@ -176,7 +176,7 @@
 
 ---
 
-## � GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ananya419&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF&count_private=true" width="48%" alt="GitHub Stats"/>
@@ -210,12 +210,12 @@ flowchart TB
         subgraph HIDDEN["⚡ PROCESSING LAYERS"]
             B1[🔬 Feature Extraction]
             B2[🎯 Pattern Recognition]
-            B3[� Model Training]
+            B3[📈 Model Training]
         end
         
         subgraph OUTPUT["📤 OUTPUT LAYER"]
             C1[🏥 Health Predictions]
-            C2[�️ Fake Detection]
+            C2[🛡️ Fake Detection]
             C3[⚡ Smart Automation]
         end
         

@@ -18,7 +18,7 @@
 ## ⚡ The Story Behind The Code
 
 🎓 **B.Tech Computer Science (AI & ML)** @ Kalinga University  
-📊 **CGPA:** 8.6/10 ⭐ | 📅 2023-2027  
+📊 **CGPA:** 9.01/10 ⭐ | 📅 2023-2027  
 📍 **Location:** India 🇮🇳
 
 ### 🚀 What I'm Building:

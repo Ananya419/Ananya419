@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ananya+Shahi;B.Tech+CS+AIML+Student;AI+%7C+ML+%7C+Data+Science+Enthusiast;Turning+Ideas+into+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Ananya+Shahi;B.Tech+CS+AIML+Student;AI+%7C+ML+%7C+Data+Science+Enthusiast;Turning+Ideas+into+Intelligent+Systems" />
 </p>
 
 <h1 align="center">✨ Ananya Shahi ✨</h1>
@@ -14,16 +14,16 @@
 
 ## 🚀 About Me
 
-🎓 **B.Tech Computer Science (AIML)** student passionate about building intelligent systems  
-🤖 Focused on **AI, Machine Learning, Data Science & Automation**  
-📊 Love converting **data into decisions**  
-🧠 Curious learner exploring **deep learning & real-world AI applications**
+🎓 B.Tech Computer Science (AIML) student  
+🤖 Passionate about **Artificial Intelligence, Machine Learning & Data Science**  
+📊 Love transforming **data into meaningful insights**  
+🧠 Curious learner exploring real-world AI applications  
 
 > ⚡ *If AI had dreams, mine would be written in Python.*
 
 ---
 
-## 🧠 Core Skills
+## 🧠 Tech Stack
 
 ### 👩‍💻 Programming & Databases
 <p>
@@ -43,21 +43,64 @@
 
 ---
 
-## 🛠️ What I’m Currently Working On
+## 🌱 Growth & Learning Philosophy
 
-- 🔬 AI & ML projects using **TensorFlow & PyTorch**
-- 🧠 **NLP & Computer Vision** applications
-- 🌐 Building ML-powered apps using **Flask**
-- 📈 Exploring **Model Optimization & Deployment**
+📌 **Learn → Build → Fail → Improve → Repeat**
+
+- 🔍 Focus on **concept clarity over shortcuts**
+- 🛠️ Believe in learning by **building real-world projects**
+- 📈 Improving **1% every day** in AI & Machine Learning
+- 🧠 Curious beyond the syllabus — exploring tech deeply
+
+> *Growth is silent, results make noise.*
+
+---
+
+## 🛠️ Currently Working On
+
+- 🤖 AI & Machine Learning projects using **TensorFlow & PyTorch**
+- 🧠 Exploring **NLP & Computer Vision** applications
+- 🌐 Building ML-powered web apps with **Flask**
+- 📊 Data analysis & model optimization
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Python & OOP  
+- Advanced Python & Object-Oriented Programming  
+- **Data Structures & Algorithms (DSA)**  
 - Computer Vision (OpenCV, CNNs)  
-- Model Deployment & APIs  
-- Real-world ML pipelines  
+- Natural Language Processing  
+- Model deployment & ML pipelines  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ananya419&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ananya419&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+
+
+---
+
+## 🌐 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ananya419&theme=tokyonight" />
+</p>
+
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananya419&theme=tokyo-night&hide_border=true" />
+</p>
+
 
 ---
 
@@ -71,42 +114,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ananya419&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ananya419&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya419&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
----
-
-## 🏆 Achievements & Highlights
-
-- ✔️ Strong foundation in **AI/ML & Data Science**
-- ✔️ Hands-on experience with **real projects**
-- ✔️ Active learner & tech enthusiast
-- ✔️ Passionate about solving real-world problems with AI
-
----
-
-## 🌱 Growth & Learning Philosophy
-
-📌 Learn → Build → Fail → Improve → Repeat  
-
-- 🔍 Focused on **concept clarity over shortcuts**
-- 🛠️ Believe in learning by **building real projects**
-- 📈 Improving 1% every day in AI & ML
-- 🧠 Exploring tech beyond syllabus
-
-> *Growth is silent, results make noise.*
-
 
 ---
 

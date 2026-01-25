@@ -71,7 +71,7 @@
 
 ---
 
-## � Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 <table>
@@ -321,7 +321,7 @@ mindmap
 
 <div align="center">
   
-| 🎯 Approach | � Description |
+| 🎯 Approach | 📝 Description |
 |------------|----------------|
 | **Learn** | Embrace every challenge as a learning opportunity |
 | **Build** | Transform concepts into real-world applications |

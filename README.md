@@ -178,16 +178,14 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ananya419&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ananya419&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" alt="Streak Stats"/>
-</div>
+  <img src="https://streak-stats.demolab.com?user=Ananya419&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" alt="Streak Stats"/>
+</p>
 
-<br>
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya419&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="45%" alt="Top Languages"/>
-</div>
+</p>
 
 ---
 

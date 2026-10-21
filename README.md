@@ -89,7 +89,7 @@
 - 📍 Geolocation-based doctor recommendations  
 - 💬 Personalized advice via Google Gemini API
 - 🌐 Full-stack Flask web application
-- 👥 Built with [@shri-ram07](https://github.com/shri-ram07)
+- 👥 Built with [@shri-ram07](https://github.com/shri-ram07): I led data collection, research & data analysis
 
 </td>
 <td width="50%">

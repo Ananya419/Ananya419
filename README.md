@@ -18,7 +18,7 @@
 ## ⚡ The Story Behind The Code
 
 🎓 **B.Tech Computer Science (AI & ML)** @ Kalinga University  
-📊 **CGPA:** 9.01/10 ⭐ | 📅 2023-2027  
+📊 **CGPA:** 9.1/10 ⭐ | 📅 2023-2027  
 📍 **Location:** India 🇮🇳
 
 ### 🚀 What I'm Building:
@@ -89,6 +89,7 @@
 - 📍 Geolocation-based doctor recommendations  
 - 💬 Personalized advice via Google Gemini API
 - 🌐 Full-stack Flask web application
+- 👥 Built with [@shri-ram07](https://github.com/shri-ram07)
 
 </td>
 <td width="50%">
@@ -104,6 +105,7 @@
 - 📊 Interactive probability visualization
 - 🎨 Modern frontend with animations
 - 🚀 High-accuracy ML classification
+- 👥 Built with [@shri-ram07](https://github.com/shri-ram07)
 
 </td>
 </tr>
@@ -121,6 +123,7 @@
 - ⚡ Automated appliance control
 - 🏆 **1st Place - Startup Competition**
 - 🌱 Energy efficiency optimization
+- 👥 [Team Backend Battalion](https://github.com/shri-ram07/Backend-Battalion) (4 members): I owned UI/UX design & documentation
 
 </td>
 <td width="50%">
@@ -136,6 +139,7 @@
 - 📊 Complete CRUD operations
 - 🎨 User-friendly Tkinter GUI
 - 💾 MySQL database integration
+- 👥 Built with [@shri-ram07](https://github.com/shri-ram07)
 
 </td>
 </tr>
